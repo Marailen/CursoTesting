@@ -1,2 +1,2 @@
 test case numero 1
-equipo qa
+equipo qa. 

@@ -2,5 +2,5 @@ creacion de caso de prueba
 test unitario para desarrollo
 caso de prueba 2
 Nuevo caso de prueba n 3
-resultado obtenido: ok
+resultado obtenido: ok ..
 
