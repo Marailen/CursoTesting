@@ -3,3 +3,5 @@ test unitario para desarrollo
 caso de prueba 2
 Nuevo caso de prueba n 3
 resultado obtenido: ok
+tets numero 4 
+equipo qa 
